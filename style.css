@@ -117,3 +117,14 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+.tag-link {
+  padding-bottom: 2rem;
+  text-decoration: none;
+  font-family: inherit;
+  color: #eee;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
