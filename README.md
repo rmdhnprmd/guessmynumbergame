@@ -1,5 +1,5 @@
 # Guess My Number
-<a href="https://guessmynumber-game.herokuapp.com/" target="blank">Don't Play This 🤮</a>
+<a href="https://guessmynumber-game.herokuapp.com/" target="_blank">Don't Play This 🤮</a>
 </br></br>
 <span>Screenshoot:</span>
 </br></br>
